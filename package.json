@@ -1,0 +1,24 @@
+{
+  "name": "plus_eng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentotihiro/English-Plus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sentotihiro/English-Plus/issues"
+  },
+  "homepage": "https://github.com/sentotihiro/English-Plus#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "querystring": "^0.2.0"
+  }
+}
